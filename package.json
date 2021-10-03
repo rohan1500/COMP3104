@@ -1,0 +1,20 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "comp3104",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: no test created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan1500/COMP3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohan1500/COMP3104/issues"
+  },
+  "homepage": "https://github.com/rohan1500/COMP3104#readme"
+}
